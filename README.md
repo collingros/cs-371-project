@@ -2,6 +2,7 @@ Aggressively Passive
 
 
 arduino/
+
 	arduino IDE code for using a motion sensor,
 	thermo sensor, and our rf-transmitter.
 
@@ -12,6 +13,7 @@ arduino/
 	rf signals from the alien arduino wirelessly.
 
 system/
+
 	experimental code for running a server on the pi
 	and sending/receiving info on the app. our project
 	was incomplete at the time of the final deadline,
